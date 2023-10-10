@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - print the aize
+ * main - print the size of the types on computer
  *
- *
+ * 
  * Return Always 0 (Success)
  */
 int main(void)
