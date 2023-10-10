@@ -3,8 +3,10 @@
 /**
  * main - print the size of the types on computer
  *
- * 
+ * Discription: nothing to do here
+ *
  * Return Always 0 (Success)
+ *
  */
 int main(void)
 {
