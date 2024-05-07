@@ -1,4 +1,5 @@
 #include "search_algos.h"
+
 /**
  * print_array - prints an array of integers
  * @array: the array to be printed
@@ -8,7 +9,7 @@ void print_array(int *array, size_t size)
 {
 	size_t i;
 
-	printf("searching in array: ");
+	printf("Searching in array: ");
 	for (i = 0; i < size; i++)
 	{
 		printf("%d", array[i]);
